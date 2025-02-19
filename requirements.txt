@@ -1,0 +1,4 @@
+torch
+transformers
+arabic_reshaper
+python_bidi
